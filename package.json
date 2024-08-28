@@ -92,6 +92,11 @@
         "productName": "Aurora Launcher",
         "publish": [
             {
+      "provider": "generic",
+      "url": "http://94.248.11.178:1370/files/release",
+      "channel": "latest"
+            },
+            {
                 "provider": "github",
                 "releaseType": "release",
                 "owner": "PysarievPavlo",
